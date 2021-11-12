@@ -6,7 +6,7 @@ Hello, my name is **Listyo Adi Pamungkas**. I'm currently a college student  in 
 <strong>I'm interesting with UI, UX and Website Design.</strong>
 
 If you are interested in getting to know me, please follow my social media accounts.
-<p align="center">
+<p align="left">
         <a href="https://twitter.com/nerufuyo" >
             <img src="images/twitter.png" height="45px">&nbsp;&nbsp;
         </a>
