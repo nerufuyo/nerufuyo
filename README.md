@@ -1,16 +1,32 @@
-### Hi there 👋
 
-<!--
-**nerufuyo/nerufuyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Find Out About Me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello, my name is **Listyo Adi Pamungkas**. I'm currently a college student  in  [Sekolah Tinggi Teknologi Bandung](https://sttbandung.ac.id/).  
+<strong>I'm interesting with UI, UX and Website Design.</strong>
+
+If you are interested in getting to know me, please follow my social media accounts.
+<p align="center">
+        <a href="https://twitter.com/nerufuyo" >
+            <img src="images/twitter.png" height="45px">&nbsp;&nbsp;
+        </a>
+        <a href="https://www.instagram.com/mbaharip_//" >
+            <img src="images/instagram.png" height="45px">&nbsp;&nbsp;
+        </a>
+        <a href="https://www.linkedin.com/in/listyo-adi-pamungkas-851490205/" >
+            <img src="images/linkedin.png" height="45px">&nbsp;&nbsp;
+        </a>
+        <a href="https://www.nerufuyo.me/" >
+            <img src="images/website.png" height="45px">&nbsp;&nbsp;
+        </a>
+        <a href="mailto:support@listyoadipamungkas65@gmail.com" >
+            <img src="images/email.png" height="45px">
+        </a>
+    </p>
+
+❤ I am currently learning UI/UX Design and Front-End Developer.
+
+<img height="110rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nerufuyo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+<img height="100%" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nerufuyo&layout=compact&langs_count=8&theme=onedark"/>
+</a>
+</p>
