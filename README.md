@@ -5,6 +5,10 @@
 Hello, my name is **Listyo Adi Pamungkas**. I'm currently a college student  in  [Sekolah Tinggi Teknologi Bandung](https://sttbandung.ac.id/).  
 <strong>I'm interesting with UI, UX and Website Design.</strong>
 
+<p>❤ I'm currently learning UI/UX Design and Front-End Developer.</p>
+<p>📚 I'm used to learning everything</p>
+<p>🤝 I'm open to collaborating</p>
+
 If you are interested in getting to know me, please follow my social media accounts.
 <p align="left">
         <a href="https://twitter.com/nerufuyo" >
@@ -23,8 +27,6 @@ If you are interested in getting to know me, please follow my social media accou
             <img src="images/email.png" height="45px">
         </a>
     </p>
-
-❤ I am currently learning UI/UX Design and Front-End Developer.
 
 <p align="left">
 <a href="https://github.com/nerufuyo">
