@@ -2,7 +2,7 @@
 
 # Find Out About Me!
 
-Hello, my name is **Listyo Adi Pamungkas**.I used to be called Listyo. I'm currently a college student  in  [Sekolah Tinggi Teknologi Bandung](https://sttbandung.ac.id/).  
+Hello, my name is **Listyo Adi Pamungkas**. I'm currently a college student  in  [Sekolah Tinggi Teknologi Bandung](https://sttbandung.ac.id/).  
 <strong>I'm interesting with UI, UX and Website Design.</strong>
 
 If you are interested in getting to know me, please follow my social media accounts.
