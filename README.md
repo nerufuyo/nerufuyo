@@ -16,7 +16,7 @@ If you are interested in getting to know me, please follow my social media accou
         <a href="https://www.linkedin.com/in/listyo-adi-pamungkas-851490205/" >
             <img src="images/linkedin.png" height="45px">&nbsp;&nbsp;
         </a>
-        <a href="https://www.nerufuyo.me/" >
+        <a href="https://nerufuyo.me/" >
             <img src="images/website.png" height="45px">&nbsp;&nbsp;
         </a>
         <a href="mailto:support@listyoadipamungkas65@gmail.com" >
