@@ -26,7 +26,7 @@ If you are interested in getting to know me, please follow my social media accou
 
 ❤ I am currently learning UI/UX Design and Front-End Developer.
 
-<img height="110rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nerufuyo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-<img height="100%" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nerufuyo&layout=compact&langs_count=8&theme=onedark"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nerufuyo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nerufuyo&layout=compact&langs_count=8&theme=onedark"/>
 </a>
 </p>
