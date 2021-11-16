@@ -6,7 +6,7 @@ Hello, my name is **Listyo Adi Pamungkas**. I'm currently a college student  in 
 <strong>I'm interesting with UI, UX and Website Design.</strong>
 
 <p>❤ I'm currently learning UI/UX Design and Front-End Developer.</p>
-<p>📚 I'm used to learning everything</p>
+<p>📚 I'm ready for learning everything</p>
 <p>🤝 I'm open to collaborating</p>
 
 If you are interested in getting to know me, please follow my social media accounts.
