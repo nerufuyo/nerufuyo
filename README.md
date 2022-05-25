@@ -20,7 +20,7 @@
 ### Glad to see you here!  
 I am a student at a university in Indonesia. I majored in Information Engineering. There I learned a lot about Web Programming to Mobile Programming. I also studied basic materials such as Algorithms, Basic Programming, Data Structures to AI.
 
-I am very interested in Front-End Development both in the field of Website and Mobile. I studied website programming languages such as HTML, CSS, Javascript, and some of the frameworks. I also studied mobile programming languages such as Java, Dart, down to the frameworks that are usually used. Then, thank you for visiting my Gihub Profile🖐️  
+I am very interested in Front-End Development both in the field of Website and Mobile. I studied website programming languages such as HTML, CSS, Javascript, and some of the frameworks. I also studied mobile programming languages such as Java, Dart, down to the frameworks that are usually used. Then, thank you for visiting my Github Profile🖐️  
   
 
 <br/>  
