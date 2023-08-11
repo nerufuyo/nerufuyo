@@ -9,7 +9,7 @@
 - 🌍  I'm based in Bandung, Indonesia  
   
 
-- 🖥️  See my portfolio at [MyPersonalWebsite](https://www.nerufuyo.my.id/)  
+- 🖥️  See my portfolio at [nerufuyo](https://www.nerufuyo.my.id/)  
   
 
 -  ✉️You can contact me at listyoap.work@gmail.com  
