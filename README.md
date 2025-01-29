@@ -11,7 +11,7 @@
 </div>
 <hr />
 
-### Software Engineer** | Jakarta Metropolitan Area, Indonesia  
+### Software Engineer | Jakarta Metropolitan Area, Indonesia  
 
 I am a versatile Software Engineer with expertise in building modern, high-performance applications for web and mobile platforms. My skill set spans across:  
 - **Mobile Development**: Flutter, Kotlin, Java  
