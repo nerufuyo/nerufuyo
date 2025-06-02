@@ -1,50 +1,51 @@
-<div align="center">
-  <img src="https://res.cloudinary.com/dxcpx9pxn/image/upload/v1738111754/xvuusonnge1bjgfkgg5b.png" alt="nerufuyo banner" style="width:66%; border-radius: 12px;" />
-</div>
+<img src="https://res.cloudinary.com/dxcpx9pxn/image/upload/v1738111754/xvuusonnge1bjgfkgg5b.png" alt="nerufuyo banner" style="width:100%; border-radius: 12px;" />
 
-<br />
+# Software Engineer
 
-<div align="center">
- <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=F7F7F7&center=true&multiline=true&width=800&height=100&lines=Craft+with+Code%2C+Work+with+Passion%2C;Oh%2C+here+I+am+Listyo+Adi!" alt="Typing SVG" />
- </a>
-</div>
-<hr />
+**Location:** Jakarta Metropolitan Area, Indonesia
 
-### **Software Engineer** | *Jakarta Metropolitan Area, Indonesia*  
+Passionate about creating digital experiences that matter. I help businesses transform ideas into powerful mobile and web applications using modern technologies. Always learning, always building.
 
-I am a versatile Software Engineer with expertise in building modern, high-performance applications for web and mobile platforms. My skill set spans across:  
-- **Mobile Development**: Flutter, Kotlin, Java  
-- **Web Development**: TypeScript, JavaScript, and frameworks like React and Next.js  
-- **Backend Development**: Golang, Firebase, MySQL, and WebSocket integration  
-- **DevOps**: CI/CD pipelines, CodeMagic, and RabbitMQ  
+---
 
-I specialize in delivering scalable, efficient, and user-centric solutions. Passionate about clean, maintainable code, I thrive on collaboration with cross-functional teams to bring projects from concept to deployment.  
+## Core Expertise
 
-Let’s create innovative and impactful software together!
+**Mobile Development**  
+Flutter • Kotlin • Java • Swift
 
+**Web Development**  
+TypeScript • JavaScript • React • Next.js
 
-<br />
+**Backend & Infrastructure**  
+Golang • Firebase • MySQL • WebSocket • RabbitMQ
 
-<p align="center" style="color:rgba(110,110,110)">
-  <a href="https://www.nerufuyo-brand.com" target="_blank" rel="noopener noreferrer">Portfolio Site</a> |
-  <a href="https://www.linkedin.com/in/listyoap/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
-  <a href="https://discord.com/users/333202281535373313" target="_blank" rel="noopener noreferrer">Discord</a> |
-  <a href="mailto:listyoap.work@gmail.com" target="_blank" rel="noopener noreferrer">Contact me!</a>
-</p>
+**DevOps & Tools**  
+CI/CD • CodeMagic • Git
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" style="margin: 8px;" />
-  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" style="margin: 8px;" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" style="margin: 8px;" />
-  <img src="https://skillicons.dev/icons?i=swift" alt="Swift" style="margin: 8px;" />
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" style="margin: 8px;" />
-  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" style="margin: 8px;" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" style="margin: 8px;" />
-  <img src="https://skillicons.dev/icons?i=golang" alt="Golang" style="margin: 8px;" /><br />
-  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" style="margin: 8px;" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" style="margin: 8px;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" style="margin: 8px;" />
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" style="margin: 8px;" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" style="margin: 8px;" />
-</div>
+---
+
+## Technology Stack
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&color=000000)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&color=000000)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=000000)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&color=000000)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&color=000000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&color=000000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&color=000000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&color=000000)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white&color=000000)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=000000)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white&color=000000)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=000000)
+
+---
+
+## Connect
+
+**Portfolio:** [nerufuyo-brand.com](https://www.nerufuyo-brand.com)  
+**LinkedIn:** [linkedin.com/in/listyoap](https://www.linkedin.com/in/listyoap/)  
+**Discord:** [nerufuyo#3331](https://discord.com/users/333202281535373313)  
+**Email:** [listyoap.work@gmail.com](mailto:listyoap.work@gmail.com)
