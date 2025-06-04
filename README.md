@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**Location:** Jakarta Metropolitan Area, Indonesia
+**Jakarta Metropolitan Area, Indonesia**
 
 Passionate about creating digital experiences that matter. I help businesses transform ideas into powerful mobile and web applications using modern technologies. Always learning, always building.
 
