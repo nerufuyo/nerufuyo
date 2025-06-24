@@ -45,6 +45,6 @@ CI/CD • CodeMagic • Git
 
 ## Connect
 
-**Portfolio:** [nerufuyo-brand.com](https://www.nerufuyo-brand.com)  
+**Portfolio:** [www.nerufuyo-workspace.com](www.nerufuyo-workspace.com)  
 **LinkedIn:** [linkedin.com/in/listyoap](https://www.linkedin.com/in/listyoap/)  
 **Discord:** [nerufuyo#3331](https://discord.com/users/333202281535373313)  
