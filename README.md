@@ -1,9 +1,5 @@
 <img src="https://res.cloudinary.com/dxcpx9pxn/image/upload/v1738111754/xvuusonnge1bjgfkgg5b.png" alt="nerufuyo banner" style="width:100%; border-radius: 12px;" />
 
-
-
-## Technology Stack
-
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&color=000000)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&color=000000)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=000000)
@@ -20,8 +16,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=000000)
 
 ---
-
-## Connect
 
 **Portfolio:** [www.nerufuyo-workspace.com](https://nerufuyo-workspace.com)  
 **LinkedIn:** [linkedin.com/in/listyoap](https://www.linkedin.com/in/listyoap/)  
