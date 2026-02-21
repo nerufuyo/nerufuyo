@@ -1,28 +1,6 @@
 <img src="https://res.cloudinary.com/dxcpx9pxn/image/upload/v1738111754/xvuusonnge1bjgfkgg5b.png" alt="nerufuyo banner" style="width:100%; border-radius: 12px;" />
 
-# Software Engineer
 
-**Jakarta Metropolitan Area, Indonesia**
-
-Passionate about creating digital experiences that matter. I help businesses transform ideas into powerful mobile and web applications using modern technologies. Always learning, always building.
-
----
-
-## Core Expertise
-
-**Mobile Development**  
-Flutter • Kotlin • Java • Swift
-
-**Web Development**  
-TypeScript • JavaScript • React • Next.js
-
-**Backend & Infrastructure**  
-Golang • Firebase • MySQL • WebSocket • RabbitMQ
-
-**DevOps & Tools**  
-CI/CD • CodeMagic • Git
-
----
 
 ## Technology Stack
 
